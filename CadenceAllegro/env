@@ -1,0 +1,51 @@
+source $TELENV
+
+funckey e move
+funckey E text edit
+
+funckey d delete
+funckey D delete
+
+funckey r rotate
+funckey R rotate
+
+funckey Esc done
+
+funckey c color192
+funckey C cmgr
+
+funckey f add connect
+funckey F shape add
+
+funckey t rats net
+funckey T unrats net 
+
+funckey l add line
+
+funckey p shape add
+
+funckey s slide
+
+funckey g shape global param
+funckey G define grid
+
+funckey Z oops
+
+funckey S status
+
+funckey ^ define text
+
+
+
+
+
+
+
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+set steppath = . ..
+set psmpath = . ..
+set padpath = . ..
