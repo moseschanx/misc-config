@@ -35,6 +35,11 @@ funckey S status
 
 funckey ^ define text
 
+funckey w add line
+
+funckey q done
+
+funckey a oops
 
 
 
@@ -47,5 +52,5 @@ funckey ^ define text
 ### Place your hand edits above this section.
 ###
 set steppath = . ..
-set psmpath = . ..
-set padpath = . ..
+set psmpath = . .. footprints
+set padpath = . .. footprints
