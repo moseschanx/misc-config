@@ -57,6 +57,7 @@
                 "hidden": false,
                 "name": "CMD",
                 "opacity": 85,
+                "padding": "9",
                 "startingDirectory": "%USERPROFILE%\\code",
                 "useAcrylic": true
             },
