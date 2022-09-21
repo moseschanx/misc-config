@@ -22,7 +22,8 @@ funckey T unrats net
 
 funckey l add line
 
-funckey p shape add
+funckey p add pin
+funckey P shape add
 
 funckey s slide
 

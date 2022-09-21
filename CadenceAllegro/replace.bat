@@ -1,0 +1,1 @@
+copy /Y .\env C:\Users\moses\AppData\Roaming\SPB_Data\pcbenv
