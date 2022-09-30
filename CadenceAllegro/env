@@ -17,8 +17,8 @@ funckey C cmgr
 funckey f add connect
 funckey F shape add
 
-funckey t rats net
-funckey T unrats net 
+funckey n rats net
+funckey N unrats net 
 
 funckey l add line
 
@@ -42,7 +42,9 @@ funckey q done
 
 funckey a oops
 
+funckey t add text
 
+funckey ~C copy
 
 
 

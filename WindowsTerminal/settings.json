@@ -30,14 +30,15 @@
         }
     ],
     "alwaysOnTop": false,
+    "alwaysShowNotificationIcon": true,
     "alwaysShowTabs": true,
     "copyFormatting": "none",
-    "copyOnSelect": false,
+    "copyOnSelect": true,
     "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
     "focusFollowMouse": true,
-    "initialCols": 95,
-    "initialRows": 60,
-    "minimizeToNotificationArea": true,
+    "initialCols": 120,
+    "initialRows": 70,
+    "minimizeToNotificationArea": false,
     "profiles": 
     {
         "defaults": {},
