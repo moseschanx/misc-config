@@ -30,11 +30,13 @@ funckey s slide
 funckey g shape global param
 funckey G define grid
 
-funckey Z oops
+funckey Z zcopy shape
 
 funckey S status
 
 funckey ^ define text
+
+funckey ` cancel
 
 funckey w add line
 
@@ -45,6 +47,8 @@ funckey a oops
 funckey t add text
 
 funckey ~C copy
+
+
 
 
 
