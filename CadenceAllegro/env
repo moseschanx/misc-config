@@ -20,21 +20,24 @@ funckey F shape add
 funckey n rats net
 funckey N unrats net 
 
+funckey I netin
+
 funckey l add line
 
 funckey p add pin
 funckey P shape add
 
 funckey s slide
+funckey S status
 
 funckey g shape global param
 funckey G define grid
 
 funckey Z zcopy shape
 
-funckey S status
 
 funckey ^ define text
+funckey # 3d
 
 funckey ` cancel
 
@@ -49,6 +52,9 @@ funckey t add text
 funckey ~C copy
 
 funckey A artwork
+
+funckey x shape edit boundary
+funckey z shape select
 
 
 
