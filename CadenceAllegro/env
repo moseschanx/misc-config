@@ -53,7 +53,7 @@ funckey ~C copy
 
 funckey A artwork
 
-funckey x shape edit boundary
+funckey X shape edit boundary
 funckey z shape select
 
 
