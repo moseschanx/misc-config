@@ -20,12 +20,15 @@ funckey F shape add
 funckey n rats net
 funckey N unrats net 
 
-funckey I netin
+funckey ~I netin
 
 funckey l add line
 
 funckey p add pin
-funckey P shape add
+funckey ~P quickplace
+funckey P place manual
+
+funckey ~U refresh symbol
 
 funckey s slide
 funckey S status
@@ -55,6 +58,8 @@ funckey A artwork
 
 funckey X shape edit boundary
 funckey z shape select
+
+
 
 
 
