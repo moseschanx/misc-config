@@ -20,6 +20,8 @@ funckey F shape add
 funckey n rats net
 funckey N unrats net 
 
+funckey m shape merge shapes
+
 funckey ~I netin
 
 funckey l add line
@@ -49,12 +51,13 @@ funckey w add line
 funckey q done
 
 funckey a oops
+funckey A next
+funckey ~A artwork
 
 funckey t add text
 
 funckey ~C copy
 
-funckey A artwork
 
 funckey X shape edit boundary
 funckey z shape select
