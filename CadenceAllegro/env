@@ -4,7 +4,8 @@ funckey e move
 funckey E text edit
 
 funckey d delete
-funckey D delete
+funckey D delete fillet
+funckey ~D add fillet
 
 funckey r rotate
 funckey R rotate
@@ -37,14 +38,15 @@ funckey S status
 
 funckey g shape global param
 funckey G define grid
+funckey ~G grid toggle
 
 funckey Z zcopy shape
-
 
 funckey ^ define text
 funckey # 3d
 
 funckey ` cancel
+funckey ~` cancel
 
 funckey w add line
 
@@ -58,12 +60,13 @@ funckey t add text
 
 funckey ~C copy
 
-
 funckey X shape edit boundary
 funckey z shape select
 
-
-
+funckey ~1 generaledit
+funckey ~2 placementedit
+funckey ~3 etchedit
+funckey ~4 shapeedit
 
 
 
@@ -74,5 +77,7 @@ funckey z shape select
 ### Place your hand edits above this section.
 ###
 set steppath = . ..
-set psmpath = . .. footprints
-set padpath = . .. footprints
+set psmpath = . .. footprints custom-spb-libs/footprints
+set padpath = . .. footprints custom-spb-libs/footprints
+
+
