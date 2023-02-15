@@ -27,6 +27,8 @@ funckey ~I netin
 
 funckey l add line
 
+funckey O chg origin
+
 funckey p add pin
 funckey ~P quickplace
 funckey P place manual
