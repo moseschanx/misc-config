@@ -2,6 +2,7 @@ source $TELENV
 
 funckey e move
 funckey E text edit
+funckey ~E show element
 
 funckey d delete
 funckey D delete fillet
@@ -22,6 +23,8 @@ funckey n rats net
 funckey N unrats net 
 
 funckey m shape merge shapes
+funckey ~M show measure
+
 
 funckey ~I netin
 
